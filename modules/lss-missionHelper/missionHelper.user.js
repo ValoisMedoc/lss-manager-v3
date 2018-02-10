@@ -598,6 +598,8 @@
 				'1x Funkstreifenwagen (100%)<br>1x Rettungstransportwagen (100%)<br><br><span class="badge">Credits: ~ 1200 </span>',
 				346: '2x Löschfahrzeuge (100%)<br>1x Drehleiter (100%)<br>1x Einsatzleitwagen 1 (100%)<br>1x Gerätekraftwagen (100%)<br>1x MzKW (100%)<br>1x MTW-TZ ' +
 				'(100%)<br>1x Rettungstransportwagen (100%)<br>3x Funkstreifenwagen (100%)<br>1x leBefKw (100%)<br>3x GruKw (100%)'
+				347: '6x Löschfahrzeuge (100%)<br>1x Drehleiter (100%)<br>1x Einsatzleitwagen 1 (100%)<br>1x Einsatzleitwagen 2 (100%)<br>1x Rüstwagen<br>1x GW-Öl ' +
+				'<br>1x GW-Höhenrettung (50%)<br>3x Funkstreifenwagen (100%)<br>Benötigte Feuerwehrkräne (FwK)<br><br><span class="badge">Credits: ~ 6000 </span> '
 			}
 		}
 
